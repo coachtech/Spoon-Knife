@@ -1,7 +1,8 @@
 ### Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
-Here is some text that I am entering in to my personal copy. 
+Here is some text that I am entering in to my personal copy.
+Here is another change that I am making. 
 
 Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. 
 
